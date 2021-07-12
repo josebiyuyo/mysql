@@ -16,6 +16,7 @@ header('location:v.php');
 
   echo "<center><h2><a href='index.php'>Intentarlo nuevamente</a></center><br>";
 
+  echo "moi";
   }
 
 
